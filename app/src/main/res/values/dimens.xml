@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_7">7dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_9">9dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_11">11dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_17">17dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_19">19dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_21">21dp</dimen>
+    <dimen name="dimen_22">22dp</dimen>
+    <dimen name="dimen_23">23dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_25">25dp</dimen>
+    <dimen name="dimen_26">26dp</dimen>
+    <dimen name="dimen_27">27dp</dimen>
+    <dimen name="dimen_28">28dp</dimen>
+    <dimen name="dimen_29">29dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_31">31dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_33">33dp</dimen>
+    <dimen name="dimen_34">34dp</dimen>
+    <dimen name="dimen_35">35dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_37">37dp</dimen>
+    <dimen name="dimen_38">38dp</dimen>
+    <dimen name="dimen_39">39dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_41">41dp</dimen>
+    <dimen name="dimen_42">42dp</dimen>
+    <dimen name="dimen_43">43dp</dimen>
+    <dimen name="dimen_44">44dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_46">46dp</dimen>
+    <dimen name="dimen_47">47dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_49">49dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_51">51dp</dimen>
+    <dimen name="dimen_52">52dp</dimen>
+    <dimen name="dimen_53">53dp</dimen>
+    <dimen name="dimen_54">54dp</dimen>
+    <dimen name="dimen_55">55dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_57">57dp</dimen>
+    <dimen name="dimen_58">58dp</dimen>
+    <dimen name="dimen_59">59dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_61">61dp</dimen>
+    <dimen name="dimen_62">62dp</dimen>
+    <dimen name="dimen_63">63dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_65">65dp</dimen>
+    <dimen name="dimen_66">66dp</dimen>
+    <dimen name="dimen_67">67dp</dimen>
+    <dimen name="dimen_68">68dp</dimen>
+    <dimen name="dimen_69">69dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_71">71dp</dimen>
+    <dimen name="dimen_72">72dp</dimen>
+    <dimen name="dimen_73">73dp</dimen>
+    <dimen name="dimen_74">74dp</dimen>
+    <dimen name="dimen_75">75dp</dimen>
+    <dimen name="dimen_76">76dp</dimen>
+    <dimen name="dimen_77">77dp</dimen>
+    <dimen name="dimen_78">78dp</dimen>
+    <dimen name="dimen_79">79dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_81">81dp</dimen>
+    <dimen name="dimen_82">82dp</dimen>
+    <dimen name="dimen_83">83dp</dimen>
+    <dimen name="dimen_84">84dp</dimen>
+    <dimen name="dimen_85">85dp</dimen>
+    <dimen name="dimen_86">86dp</dimen>
+    <dimen name="dimen_87">87dp</dimen>
+    <dimen name="dimen_88">88dp</dimen>
+    <dimen name="dimen_89">89dp</dimen>
+    <dimen name="dimen_90">90dp</dimen>
+    <dimen name="dimen_91">91dp</dimen>
+    <dimen name="dimen_92">92dp</dimen>
+    <dimen name="dimen_93">93dp</dimen>
+    <dimen name="dimen_94">94dp</dimen>
+    <dimen name="dimen_95">95dp</dimen>
+    <dimen name="dimen_96">96dp</dimen>
+    <dimen name="dimen_97">97dp</dimen>
+    <dimen name="dimen_98">98dp</dimen>
+    <dimen name="dimen_99">99dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+
+    <dimen name="dimen_0_sp">0sp</dimen>
+    <dimen name="dimen_1_sp">1sp</dimen>
+    <dimen name="dimen_2_sp">2sp</dimen>
+    <dimen name="dimen_3_sp">3sp</dimen>
+    <dimen name="dimen_4_sp">4sp</dimen>
+    <dimen name="dimen_5_sp">5sp</dimen>
+    <dimen name="dimen_6_sp">6sp</dimen>
+    <dimen name="dimen_7_sp">7sp</dimen>
+    <dimen name="dimen_8_sp">8sp</dimen>
+    <dimen name="dimen_9_sp">9sp</dimen>
+    <dimen name="dimen_10_sp">10sp</dimen>
+    <dimen name="dimen_11_sp">11sp</dimen>
+    <dimen name="dimen_12_sp">12sp</dimen>
+    <dimen name="dimen_13_sp">13sp</dimen>
+    <dimen name="dimen_14_sp">14sp</dimen>
+    <dimen name="dimen_15_sp">15sp</dimen>
+    <dimen name="dimen_16_sp">16sp</dimen>
+    <dimen name="dimen_17_sp">17sp</dimen>
+    <dimen name="dimen_18_sp">18sp</dimen>
+    <dimen name="dimen_19_sp">19sp</dimen>
+    <dimen name="dimen_20_sp">20sp</dimen>
+    <dimen name="dimen_21_sp">21sp</dimen>
+    <dimen name="dimen_22_sp">22sp</dimen>
+    <dimen name="dimen_23_sp">23sp</dimen>
+    <dimen name="dimen_24_sp">24sp</dimen>
+    <dimen name="dimen_25_sp">25sp</dimen>
+    <dimen name="dimen_26_sp">26sp</dimen>
+    <dimen name="dimen_27_sp">27sp</dimen>
+    <dimen name="dimen_28_sp">28sp</dimen>
+    <dimen name="dimen_29_sp">29sp</dimen>
+    <dimen name="dimen_30_sp">30sp</dimen>
+    <dimen name="dimen_31_sp">31sp</dimen>
+    <dimen name="dimen_32_sp">32sp</dimen>
+    <dimen name="dimen_35_sp">35sp</dimen>
+
+    <dimen name="login_imageview_width">180dp</dimen>
+    <dimen name="login_imageview_height">180dp</dimen>
+    <dimen name="profile_imageview_width">150dp</dimen>
+    <dimen name="profile_imageview_height">150dp</dimen>
+    <dimen name="profile_card_view_height">500dp</dimen>
+    <dimen name="button_width">200dp</dimen>
+    <dimen name="card_corner_radius">120dp</dimen>
+    <dimen name="contact_item_height">130dp</dimen>
+    <dimen name="nav_drawer_header_height">175dp</dimen>
+    <dimen name="splash_imageview_width">250dp</dimen>
+    <dimen name="splash_imageview_height">250dp</dimen>
+    <dimen name="logReg_imageview_width">250dp</dimen>
+    <dimen name="logReg_imageview_height">190dp</dimen>
+
+    <item name="constraintVertical_bias" format="float" type="dimen">.7</item>
+    <item name="dashboard_card_constraintVertical_bias" format="float" type="dimen">1.0</item>
+    <item name="dashboard_card_top_constraintVertical_bias" format="float" type="dimen">0.0</item>
+    <item name="login_top_constraintGuide_percent" format="float" type="dimen">0.10</item>
+    <item name="userDetails_top_constraintGuide_percent" format="float" type="dimen">0.10</item>
+    <item name="login_top_card_constraintGuide_percent" format="float" type="dimen">0.11</item>
+    <item name="login_center_constraintGuide_percent" format="float" type="dimen">0.47</item>
+    <item name="login_bottom_button_constraintGuide_percent" format="float" type="dimen">0.80</item>
+    <item name="pay_bottom_button_constraintGuide_percent" format="float" type="dimen">0.83</item>
+    <item name="pay_bottom_button_vertical_constraintGuide_percent" format="float" type="dimen">0.75</item>
+    <item name="register_top_constraintGuide_percent" format="float" type="dimen">0.05</item>
+    <item name="register_medium_constraintGuide_percent" format="float" type="dimen">0.22</item>
+    <item name="transaction_item_constraint" format="float" type="dimen">0.27</item>
+    <item name="contact_item_constraint" format="float" type="dimen">0.30</item>
+    <item name="pay_friend_constraint" format="float" type="dimen">0.47</item>
+    <item name="deposit_constraint" format="float" type="dimen">0.50</item>
+    <item name="profile_center_constraint" format="float" type="dimen">0.40</item>
+    <item name="profile_constraint" format="float" type="dimen">0.10</item>
+</resources>
